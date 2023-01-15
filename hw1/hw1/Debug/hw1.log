@@ -1,0 +1,5 @@
+﻿  main.cpp
+  Object.cpp
+E:\學校課程\3上\computer graphics\hw1\hw1\Object.cpp(70,14): warning C4018: '<': signed/unsigned 不相符
+  正在產生程式碼...
+  hw1.vcxproj -> E:\學校課程\3上\computer graphics\hw1\Debug\hw1.exe
